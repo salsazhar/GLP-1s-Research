@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib.patches import FancyBboxPatch
 
-# Publication-grade colorblind-friendly palette
 COLORS = {
     'medical': '#4E79A7',      # Blue
     'lifestyle': '#A0CBE8',    # Light Blue
